@@ -19,3 +19,5 @@ ENV/
 
 # uv lock file
 uv.lock
+
+example.env
